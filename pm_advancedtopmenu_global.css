@@ -1,0 +1,31 @@
+#adtm_menu_inner {background-color:none;}
+#adtm_menu_inner {padding:0px 0px 0px 0px;margin:0px 0px 10px 0px;border-color:transparent;border-width:0px 0px 1px 0px;}
+#adtm_menu .li-niveau1 a.a-niveau1 {height:30px;line-height:29px;}
+#adtm_menu_inner {width:660px;}
+#adtm_menu .li-niveau1 {line-height:29px;}
+#adtm_menu .li-niveau1 a.a-niveau1 .advtm_menu_span  {height:30px;line-height:29px;}
+#adtm_menu ul#menu li div.adtm_sub {top:30px;}
+.li-niveau1 {padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;}
+.li-niveau1 .advtm_menu_span, .li-niveau1 a .advtm_menu_span {color:#ffffff;}
+.li-niveau1 a:hover .advtm_menu_span, .li-niveau1 a.advtm_menu_actif .advtm_menu_span, .li-niveau1:hover > a.a-niveau1 .advtm_menu_span {color:#ffffff;}
+.li-niveau1 a .advtm_menu_span, .li-niveau1 .advtm_menu_span {background-color:none;}
+.li-niveau1 a:hover .advtm_menu_span, .li-niveau1 a.advtm_menu_actif .advtm_menu_span, .li-niveau1 .advtm_menu_span:hover, .li-niveau1:hover > a.a-niveau1 .advtm_menu_span {background-color:#f81fb0;	-moz-border-radius: 3px 3px 0px 0px; -khtml-border-radius: 3px 3px 0px 0px; -webkit-border-radius: 3px 3px 0px 0px;}
+.li-niveau1 a.advtm_menu_actif .advtm_menu_span {background-color:#f81fb0;	-moz-border-radius: 3px; -khtml-border-radius: 3px; -webkit-border-radius: 3px;}
+.li-niveau1 a.a-niveau1 {border-color:none;border-width:0px 0px 0px 0px;}
+.li-niveau1 .adtm_sub {border-color:#f81fb0;border-width:5px 0px 5px 0px;}
+.li-niveau1 .adtm_sub  {background-color:#ebebeb; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=95)"; filter: alpha(opacity=95); -moz-opacity:0.95; -khtml-opacity: 0.95; opacity: 0.95;}
+.li-niveau1 .adtm_sub {width:1000px;}
+.li-niveau1 .adtm_sub {min-height:150px;}
+* html .li-niveau1 .adtm_sub {height:150px;}
+#adtm_menu div.adtm_column_wrap {min-height:150px;}
+* html #adtm_menu div.adtm_column_wrap {height:150px;}
+.adtm_column_wrap h5, .adtm_column_wrap h5 a {color:#000000;}
+.adtm_column_wrap h5:hover, .adtm_column_wrap h5 a:hover {color:#000000;}
+.adtm_column_wrap a {color:#000000;}
+.adtm_column_wrap a:hover {color:#000000;}
+#adtm_menu .adtm_column_wrap {padding:10px 10px 10px 10px;}
+#adtm_menu .adtm_column {padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;}
+#adtm_menu .adtm_column ul.adtm_elements li a {padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;}
+#adtm_menu .li-niveau1 a.a-niveau1 .advtm_menu_span {font-size:14px;}
+#adtm_menu .adtm_column h5, #adtm_menu .adtm_column h5 a {font-size:14px; font-weight:bold;}
+#adtm_menu .adtm_column ul.adtm_elements li, #adtm_menu .adtm_column ul.adtm_elements li a {font-size:12px;}
